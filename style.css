@@ -1,0 +1,69 @@
+#cont-1{
+    height: 650px;
+    border: 2px ridge black;
+    background-image: url("cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar-brand{
+    font-weight: bolder;
+    color: rgb(98, 156, 40);
+    margin-top: 10px;
+}
+.nav-link{
+    margin-right: 35px;
+    color: rgb(120, 201, 38);
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.nav-link:hover{
+    color: rgb(181, 223, 98);
+}
+.content{
+    color: white;
+    margin-top: 100px;
+}
+.btn{
+    background-color: yellow;
+    font-weight: bold;
+    color: rgb(139, 185, 45);
+    width: 150px;
+}
+.btn:hover{
+    color: green;
+}
+#second{
+    height: 80px;
+    border: 2px ridge yellow;
+    margin-top: 20px;
+    text-align: center;
+}
+#para1{
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.card-text{
+    text-align:left;
+}
+#card1{
+    width: 300px;
+    margin: 50px;
+
+}
+#cardpara1{
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+#card2{
+    width: 350px;
+    margin: 50px;
+}
+#card3{
+    width: 300px;
+    margin: 50px;
+
+}
